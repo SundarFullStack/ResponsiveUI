@@ -1,0 +1,48 @@
+
+body{
+
+    background-color:  rgb(157, 209, 246);
+}
+.box{
+
+    padding: 50px;
+
+}
+.fa{
+
+    color:blue;
+}
+
+.box_inside{
+
+    background-color:white;
+    padding: 60px 5px;
+    border-radius: 9px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: rgb(0 0 0 / 35%) 0px 5px 15px;
+    
+    
+    
+}
+
+a{
+    color:blue;
+    border-bottom: 1px solid blue;
+}
+
+span{
+    font-size: 20px;
+}
+
+.content{
+
+    margin-bottom: 20px;
+}
+
+.row{
+    
+margin-bottom: 20px;
+}
+
+
